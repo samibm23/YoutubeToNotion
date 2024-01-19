@@ -1,0 +1,7 @@
+google-ai-generativelanguage
+google-api-core
+google-auth
+google-generativeai
+langchain
+youtube-transcript-api
+pytube
